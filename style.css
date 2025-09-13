@@ -1,0 +1,22 @@
+/* <!-- *🎓 Ev Tapşırığı*
+
+Tapşırıq: Bir HTML səhifəsi yaradın və aşağıdakıları edin:
+
+1. Səhifənin arxa fonuna şəkil əlavə edin. Şəkil bütün səhifəni əhatə etsin (background-size: cover;).
+2. Səhifənin yuxarı hissəsində bir div yaradın. Div-in arxa fonu mavi olsun.
+3. Div-in içində bir cümlə yazın. 
+Yazı:
+* ağ rəngdə olsun,
+* ortada yerləşsin. --> */
+
+body {
+    background-image: url(./forest.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.ust-div {
+    background-color: blue;
+    color: white;
+    text-align: center;
+}
